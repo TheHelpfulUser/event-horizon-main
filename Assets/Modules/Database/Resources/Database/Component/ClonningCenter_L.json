@@ -8,14 +8,14 @@
   "Faction": 16,
   "Level": 100,
   "Icon": "zygote3",
-  "Layout": "0110111111110110",
+  "Layout": "1",
   "CellType": "2",
   "DeviceId": 25,
   "Restrictions": {
     "ShipSizes": [
       3
     ],
-    "NotForMechanicShips": true
+    "NotForMechanicShips": false
   },
   "PossibleModifications": [
     1,
