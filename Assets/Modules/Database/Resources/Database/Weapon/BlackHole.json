@@ -6,6 +6,6 @@
   "ActivationType": 1,
   "ShotSound": "shot_02",
   "ShotEffectPrefab": "FlashAdditive",
-  "EffectSize": 1.0,
+  "EffectSize": 19999.0,
   "ControlButtonIcon": "controls_shot"
 }
