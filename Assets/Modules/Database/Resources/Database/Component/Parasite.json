@@ -15,7 +15,7 @@
   "AmmunitionId": 122,
   "WeaponSlotType": "S",
   "Restrictions": {
-    "NotForMechanicShips": true
+    "NotForMechanicShips": false
   },
   "PossibleModifications": [
     14,
