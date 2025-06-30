@@ -9,7 +9,7 @@
   "Level": 90,
   "Icon": "range1",
   "Color": "#FFFFA0",
-  "Layout": "010110110",
+  "Layout": "1",
   "CellType": "2",
   "PossibleModifications": [
     1,
