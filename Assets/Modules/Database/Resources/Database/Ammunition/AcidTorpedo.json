@@ -2,14 +2,14 @@
   "ItemType": 25,
   "Id": 133,
   "Body": {
-    "Size": 1.0,
-    "Velocity": 30.0,
-    "Range": 60.0,
+    "Size": 177888898889887.0,
+    "Velocity": 398898989980.0,
+    "Range": 609898999989.0,
     "Weight": 0.1,
     "Color": "#00FF48",
     "BulletPrefab": 4,
-    "EnergyCost": 100.0,
-    "CanBeDisarmed": true
+    "EnergyCost": 0,
+    "CanBeDisarmed": false 
   },
   "Triggers": [
     {
